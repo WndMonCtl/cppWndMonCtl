@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16635C28-286E-40D2-9179-3D56B5FEB5C6}|WndMonCtl\\WndMonCtl.vcxproj|D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\WndMonCtl\\WndMonCtl.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16635C28-286E-40D2-9179-3D56B5FEB5C6}|WndMonCtl\\WndMonCtl.vcxproj|solutionrelative:WndMonCtl\\WndMonCtl.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WndMonCtl.hpp",
+              "DocumentMoniker": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\WndMonCtl\\WndMonCtl.hpp",
+              "RelativeDocumentMoniker": "WndMonCtl\\WndMonCtl.hpp",
+              "ToolTip": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\WndMonCtl\\WndMonCtl.hpp",
+              "RelativeToolTip": "WndMonCtl\\WndMonCtl.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T04:43:16.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
