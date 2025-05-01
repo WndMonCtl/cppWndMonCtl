@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\",
+  "WorkspaceRootPath": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16635C28-286E-40D2-9179-3D56B5FEB5C6}|WndMonCtl\\WndMonCtl.vcxproj|D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\WndMonCtl\\WndMonCtl.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{16635C28-286E-40D2-9179-3D56B5FEB5C6}|WndMonCtl\\WndMonCtl.vcxproj|D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16635C28-286E-40D2-9179-3D56B5FEB5C6}|WndMonCtl\\WndMonCtl.vcxproj|solutionrelative:WndMonCtl\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16635C28-286E-40D2-9179-3D56B5FEB5C6}|WndMonCtl\\WndMonCtl.vcxproj|D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\WndMonCtl.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{16635C28-286E-40D2-9179-3D56B5FEB5C6}|WndMonCtl\\WndMonCtl.vcxproj|solutionrelative:WndMonCtl\\WndMonCtl.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WndMonCtl.hpp",
+              "DocumentMoniker": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\WndMonCtl.hpp",
+              "RelativeDocumentMoniker": "WndMonCtl\\WndMonCtl.hpp",
+              "ToolTip": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\WndMonCtl.hpp",
+              "RelativeToolTip": "WndMonCtl\\WndMonCtl.hpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwKQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T04:43:16.169Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
@@ -39,14 +57,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WndMonCtl.hpp",
-              "DocumentMoniker": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\WndMonCtl\\WndMonCtl.hpp",
-              "RelativeDocumentMoniker": "WndMonCtl\\WndMonCtl.hpp",
-              "ToolTip": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\WndMonCtl\\WndMonCtl.hpp",
-              "RelativeToolTip": "WndMonCtl\\WndMonCtl.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-01T04:43:16.169Z",
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\test.cpp",
+              "RelativeDocumentMoniker": "WndMonCtl\\test.cpp",
+              "ToolTip": "D:\\BaiduSyncdisk\\\u5DE5\u7A0B\u9879\u76EE\\WndMonCtl\\cppWndMonCtl\\WndMonCtl\\test.cpp",
+              "RelativeToolTip": "WndMonCtl\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T07:40:04.927Z",
               "EditorCaption": ""
             }
           ]
