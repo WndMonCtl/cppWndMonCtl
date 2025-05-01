@@ -1,0 +1,9 @@
+/.vs/
+/Release/
+/Debug/
+/x64/
+/ARM64/
+/WndMonCtl/Release/
+/WndMonCtl/Debug/
+/WndMonCtl/x64/
+/WndMonCtl/ARM64/
