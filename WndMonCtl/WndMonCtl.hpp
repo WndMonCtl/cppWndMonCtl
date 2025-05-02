@@ -38,6 +38,26 @@ using wmcString = std::string;
 
 namespace
 {
+	////////////****** 窗体 ******////////////
+	class WindowStrong
+	{
+	public:
+		WindowStrong() {}
+		WindowStrong(HWND hwndTarget)
+		{
+			hwnd = hwndTarget;
+		}
+
+	public:
+		bool IsValid()
+		{
+			return hwnd != nullptr;
+		}
+
+	public:
+		HWND hwnd;
+	};
+
 	////////////****** 窗体信息 ******////////////
 
 	class WindowInfo
@@ -88,6 +108,8 @@ namespace
 
 	bool priGetWindowInfoExtra(WindowInfo& windowInfo, HWND hwnd)
 	{
+		windowInfo.hwnd = hwnd;
+
 		// 1. 获取窗口标题 (Window Text)
 #ifdef wmcUnicode
 		int titleLen = GetWindowTextLengthW(hwnd);
@@ -172,14 +194,20 @@ namespace
 		GetWindowRect(hwnd, &windowInfo.rect);
 		windowInfo.width = windowInfo.rect.right - windowInfo.rect.left;
 		windowInfo.height = windowInfo.rect.bottom - windowInfo.rect.top;
+
+		// 6. 获取窗口显示状态
+		windowInfo.isVisible = IsWindowVisible(hwnd);
 	}
 }
 namespace WndMC
 {
+	////////////****** 窗体 ******////////////
+	extern class WindowStrong;
+
 	////////////****** 窗体信息 ******////////////
 
 	extern class WindowInfo;
-	extern class WindowInfoExtra;
+	//extern class WindowInfoExtra;
 
 	class Snapshot
 	{
